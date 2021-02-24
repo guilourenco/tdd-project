@@ -1,0 +1,5 @@
+Diferenças entre Testes Funcionais e Testes de Unidade:
+
+1- Testes de Unidade são escritos da perspectiva dos programadores, ou seja, eles são feitos para garantir que um método específico de uma classe execute um conjunto de tarefas específicas. Já os testes funcionais são escritos da perspectiva do usuário, eles garantem que o sistema esteja funcionando como os usuários esperam.
+
+2- O Teste de unidade funciona de forma independente, possibilitando o programador testar cada módulo isoladamente. Já o teste de sistema é feito em um sistema totalmente integrado e se verifica os seus requisitos em ambiente de produção.
