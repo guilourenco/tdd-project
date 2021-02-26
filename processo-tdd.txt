@@ -1,0 +1,7 @@
+O TDD: Test-driven development é uma tecnica de design que tem como objetivo escrever o melhor software de maneira mais rápida possível. Ele é baseado numa ideia simples de escrever um teste que falha antes de escrever o código de produção, pois escrevendo pequenos testes bottom-up o sistema fica mais confiável. Em outras palavras é escrever a menor quantidade de código possível para resolver o problema e que ele tenha valor. O TDD é composto de 3 ciclos:
+
+1- Estado vermelho: comece escrevendo testes que sejam de acordo com as regras de negócio. Esses testes falharão pois você não tem a regra implementada ainda na sua aplicação. No caso de testes funcionais se ele não passar é necessário escrever um código minimo de teste de unidade.
+
+2 - Estado verde: Implemente as mudanças necessárias para que seus testes passem e suas regras sejam atendidas.
+
+3 - Refatoração: Há oportunidades de se melhorar o código? Se sim, faça a melhoria ou repita o processo até que todas as regras sejam cumpridas.
